@@ -1,4 +1,3 @@
-Below is a concise, practical inpatient guide to **electrolyte management**—structured and clinically focused, consistent with the style many learners appreciate from Board-style resources. No proprietary content is quoted; this is a synthesis of standard inpatient practice.
 
 ---
 
@@ -359,4 +358,3 @@ Refeeding after malnutrition, Phos 0.25 mmol/L: give **IV K-phos** with telemetr
 2. **Correct at safe rates**: Na ≤ 8–10 mmol/day; monitor closely.
 3. **Think pairs**: HypoK ↔ hypoMg; Ca ↔ phosphate; chloride ↔ acid–base.
 
-If you want, I can convert this into pocket cards or a one-page ICU “electrolyte crash sheet,” or build dosage calculators for your typical ward protocols.
