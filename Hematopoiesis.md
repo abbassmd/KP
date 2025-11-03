@@ -162,13 +162,8 @@ M = Monocyte
 M = Megakaryocyte  
 L = Lymphocyte  
 B = Basophil (bonus!)
-```
 
-Perfect. Let’s create a **complete, exam-ready hematopoiesis Markdown file**, including **all mature lineages, cytokines, clinical correlates, cytopenias, cytoses, and leukocyte differentials**, fully detailed for **Pathoma-style review**. This is ready for GitHub `.md`.
 
----
-
-```markdown
 # Hematopoiesis – Complete Detailed Flowchart
 
 **Primary site (adult):** Bone marrow (sternum, ribs, vertebrae, pelvis)  
