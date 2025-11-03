@@ -164,6 +164,3 @@ L = Lymphocyte
 B = Basophil (bonus!)
 ```
 
----
-
-Would you like me to now **generate a graphical chart** (colored, labeled tree diagram) based on this Markdown — similar to Pathoma’s figure — so you can visually use it in your notes or slides?
