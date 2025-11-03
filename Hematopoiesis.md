@@ -1,11 +1,3 @@
-Perfect — here’s a **detailed hematopoiesis diagram** fully written in **Markdown format** (you can copy and paste this into any Markdown viewer like Obsidian, Notion, or GitHub).
-It’s structured hierarchically with clear branching and cytokine/clinical notes just like you’d see in *Pathoma* or *AMBOSS visual flowcharts.*
-
----
-
-## 🧬 **Hematopoiesis – Detailed Lineage Flowchart (Markdown Version)**
-
-```markdown
 # HEMATOPOIESIS
 
 **Main Site in Adults:** Bone marrow (sternum, ribs, pelvis, vertebrae)
