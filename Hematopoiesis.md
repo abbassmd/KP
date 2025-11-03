@@ -166,12 +166,6 @@ B = Basophil (bonus!)
 
 --------------------------------------------------------------
 
-
-Absolutely — let’s build a **comprehensive hematopoiesis reference in GitHub-ready Markdown**, including **all major lineages, subtypes, and clinical correlates**: leukocytosis/leukopenia, lymphocytosis/lymphopenia, neutropenia, eosinophilia, thrombocytopenia, and related pathophysiology. This will be dense but fully exam- and clinical-oriented.
-
----
-
-```markdown
 # Hematopoiesis – Complete Detailed Flowchart with Clinical Correlates
 
 **Primary Site in Adults:** Bone marrow (sternum, ribs, pelvis, vertebrae)  
