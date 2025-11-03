@@ -346,5 +346,3 @@ HSC (CD34+)
 - B = Basophils (bonus)
 ```
 
----
-
